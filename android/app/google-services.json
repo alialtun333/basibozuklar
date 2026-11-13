@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "488840175464",
+    "firebase_url": "https://basibozuklar26-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "basibozuklar26",
+    "storage_bucket": "basibozuklar26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488840175464:android:b041c073009b1d156a80dd",
+        "android_client_info": {
+          "package_name": "com.basibozuklar.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488840175464-prp1mdhob09hljkmkaoj9dl150p3nb40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAADqG1FgfL_hNk6z5un_DG0KBtjQP7dqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488840175464-prp1mdhob09hljkmkaoj9dl150p3nb40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488840175464:android:d3372c6d8ce92cfb6a80dd",
+        "android_client_info": {
+          "package_name": "com.example.basibozuklar_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488840175464-prp1mdhob09hljkmkaoj9dl150p3nb40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAADqG1FgfL_hNk6z5un_DG0KBtjQP7dqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488840175464-prp1mdhob09hljkmkaoj9dl150p3nb40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
